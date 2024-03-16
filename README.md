@@ -23,3 +23,7 @@
 <a href="https://www.reddit.com/user/Pretend_Phase2214/" >
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHenriqueGon&show_icons=true&theme=dark)
+
+
