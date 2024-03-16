@@ -2,9 +2,10 @@
 
 - 🔭 Atualmente estou trabalhando em ...
 - 👨‍🎓 **Aluno** de Tecnologia em Análise e Desenvolvimento de Sistemas no [IFSP de Bragança Paulista](https://bra.ifsp.edu.br/)
-- 🖥️ Atualmente estou aprendendo: linguagem c++ e Visual Studio Code ...
-- 📫 Como entrar em contato comigo:luizhenriquegoncalves2004@gmail.com ...
-- 😄 Pronouns: ele/dele ...
+- 🖥️ Atualmente estou aprendendo:
+<div display="inline">
+ <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+ <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+</div>      
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
-          
+### Você tambem me encontra em: ###
