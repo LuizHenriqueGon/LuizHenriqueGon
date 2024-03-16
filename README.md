@@ -8,6 +8,8 @@
 &nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
 </div>      
 
+  ##
+
 ### Você tambem me encontra em: ###
 <a href="https://twitter.com/LuizHenriq82758" >
 <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
