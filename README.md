@@ -15,3 +15,9 @@
 <a href="https://www.instagram.com/luhenrique7339/" >
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
+<a href="https://www.facebook.com/profile.php?id=100095267540532&locale=pt_BR" >
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+</a>
+<a href="https://www.reddit.com/user/Pretend_Phase2214/" >
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
