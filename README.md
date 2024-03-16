@@ -9,3 +9,8 @@
 </div>      
 
 ### Você tambem me encontra em: ###
+<a href="https://mail.google.com/mail/u/8/#inbox" >
+<img src=" https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+<img width="60" height="60" src="" />
+</a>
+
