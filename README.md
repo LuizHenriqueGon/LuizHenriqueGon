@@ -9,8 +9,9 @@
 </div>      
 
 ### Você tambem me encontra em: ###
-<a href="https://mail.google.com/mail/u/8/#inbox" >
-<img src=" https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-<img width="60" height="60" src="" />
+<a href="https://twitter.com/LuizHenriq82758" >
+<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
 </a>
-
+<a href="https://www.instagram.com/luhenrique7339/" >
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
