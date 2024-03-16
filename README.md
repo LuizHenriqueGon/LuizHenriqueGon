@@ -6,5 +6,5 @@
 - 📫 Como entrar em contato comigo:luizhenriquegoncalves2004@gmail.com ...
 - 😄 Pronouns: ele/dele ...
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
           
