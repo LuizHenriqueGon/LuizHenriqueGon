@@ -5,8 +5,9 @@
 - 🖥️ Atualmente estou aprendendo:
 <div display="inline">
 &nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /> &nbsp;&nbsp;
-&nbsp;&nbsp;  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;
-<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/6789362?s=200&amp;v=4" width="100" height="100" alt="@OfficeDev">
+&nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width="60" height="60"  src="https://avatars.githubusercontent.com/u/6789362?s=200&amp;v=4" />&nbsp;&nbsp;
+ 
 
 </div>      
 
