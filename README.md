@@ -30,10 +30,10 @@
 <a href="https://www.reddit.com/user/Pretend_Phase2214/" >
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
+<a href="https://mail.google.com/mail/u/0/#inbox" >
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<div style="display: inline_block"><br/>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizhenriquegoncalves2004@gmail.com) 
-</div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHenriqueGon&show_icons=true&theme=dark)
