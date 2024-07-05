@@ -36,7 +36,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHenriqueGon&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueGon&hide=javascript,html)
-
 <div><br/>
  Sou um desenvolvedor apaixonado por tecnologia e inovação. estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos.
 </div>  
