@@ -6,9 +6,9 @@
 <div display="inline">
 &nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /> &nbsp;&nbsp;
 &nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img width="60" height="60"  src="https://avatars.githubusercontent.com/u/6789362?s=200&amp;v=4" />&nbsp;&nbsp;
- 
 
+💻 - Já tenho conhecimento sobre a área:
+&nbsp;&nbsp;<img width="60" height="60"  src="https://avatars.githubusercontent.com/u/6789362?s=200&amp;v=4" />&nbsp;&nbsp;
 </div>      
 
   ##
