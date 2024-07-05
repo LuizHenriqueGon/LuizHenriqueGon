@@ -30,7 +30,7 @@
 <a href="https://www.reddit.com/user/Pretend_Phase2214/" >
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
-<a href="https://mail.google.com/mail/u/0/#inbox" >
+<a href="mailto:luizhenriquegoncalves2004@gmail.com" >
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
