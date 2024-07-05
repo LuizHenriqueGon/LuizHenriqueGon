@@ -5,7 +5,9 @@
 - 🖥️ Atualmente estou aprendendo:
 <div display="inline">
 &nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /> &nbsp;&nbsp;
-&nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;
+
+
 </div>      
 
   ##
