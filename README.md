@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando em ...
 - 👨‍🎓 **Aluno** de Tecnologia em Análise e Desenvolvimento de Sistemas no [IFSP de Bragança Paulista](https://bra.ifsp.edu.br/)
+- 📃 Veja meu portifólio: https://luizhenriquegon.github.io/
 - 🖥️ Atualmente estou aprendendo:
 <div display="inline">
 &nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /> &nbsp;&nbsp;
