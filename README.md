@@ -7,6 +7,8 @@
 <div display="inline">
 &nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /> &nbsp;&nbsp;
 &nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width="60" height="60" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg](https://luizhenriquegon.github.io/assets/img/Portugol%20Studio.png)" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;
 </div> 
 - 💻 - Já tenho conhecimento sobre a área:
 <div>
