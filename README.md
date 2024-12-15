@@ -22,7 +22,7 @@
 <a href="https://twitter.com/LuizHenriq82758" >
 <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/luhenrique7339/" >
+<a href="https://www.instagram.com/luiz_henrique_gon/" >
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100095267540532&locale=pt_BR" >
