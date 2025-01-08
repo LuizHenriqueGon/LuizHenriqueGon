@@ -18,7 +18,9 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. estou sempre em bus
   <img alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="sql" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />        
+  <img alt="sql" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
+  <img alt='react' width="30" height="40" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
+  
 </div>
 
 ## Você tambem me encontra em: 
