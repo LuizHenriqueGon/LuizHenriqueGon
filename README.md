@@ -26,8 +26,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. estou sempre em bus
 ## Você tambem me encontra em: 
 <div style="display: inline_block"><br/>
 
-[![Gmail](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/LuizHenriqueDra) 
-[![Gmail](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luiz_henrique_gon/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizhenriquegoncalves2004@gmail.com) 
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-gon%C3%A7alves-5186222ba/) 
 
